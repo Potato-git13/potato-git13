@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align=center>
+	Potato-git13 / Potato man
 
-<!--
-**Potato-git13/potato-git13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/github/followers/potato-git13?style=flat-square)](https://github.com/potato-git13)
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/OS-Linux%20Mint-92b66?style=flat-square&logo=linuxmint&logoColor=white)](https://manjaro.org/)
+[![](https://img.shields.io/badge/Codium-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)](https://vscodium.com/)
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+  professionally unprofessional technology consoomer and linux enjoyer.
+</p>
+
+<p align=center>
+   <img src="https://skillicons.dev/icons?i=linux,c,python,bash,git" width="40%"/>
+</p>
+
+<h2 align=center>
+
+![counter](https://github-readme-stats.vercel.app/api/top-langs/?username=potato-git13&theme=vue&layout=compact&langs_count=7&hide_title=true)
+![counter](https://github-readme-stats.vercel.app/api?username=potato-git13&theme=vue&show_icons=true&include_all_commits=true&hide_title=true)
+
+</h2>
