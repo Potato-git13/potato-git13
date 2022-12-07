@@ -17,7 +17,7 @@
 
 <h2 align=center>
 
-![counter](https://ghreadme-three.vercel.app/api/top-langs/?username=potato-git13&theme=vue&layout=compact&langs_count=7&hide_title=true)
-![counter](https://ghreadme-three.vercel.app/api?username=potato-git13&theme=vue&show_icons=true&include_all_commits=true&hide_title=true)
-
+![counter](https://github-readme-stats.vercel.app/api/top-langs/?username=potato-git13&theme=vue&layout=compact&langs_count=7&hide_title=true)
+![counter](https://github-readme-stats.vercel.app/api?username=potato-git13&theme=vue&show_icons=true&include_all_commits=true&hide_title=true)
+	
 </h2>
